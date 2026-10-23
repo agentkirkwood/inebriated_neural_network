@@ -55,7 +55,7 @@ This is a proof of concept that chemical measurements of New Belgium brew may be
 ## Acknowledgments
 <img src="images/nb_break_line.png" width=100% height=100%/>
 
-Thank you Matthew Smith, Senior Business Systems Analyst @ New Belgium for data and guidance. Thanks to Jan Van Zechbroeck, [former Galvanize-er](https://github.com/janvanzeghbroeck/Seeing-Taste) and New Belgium consultant for coding help and these attractive section division lines.
+Thank you Matthew Smith, Senior Business Systems Analyst @ New Belgium for data and guidance. Thanks to [Jan Van Zechbroeck](https://github.com/janvanzeghbroeck/Seeing-Taste), former Galvanize-er and New Belgium consultant for coding help and these attractive section division lines.
 
 
 
