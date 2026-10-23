@@ -2,7 +2,7 @@
 
 *Using machine learning to classify "Hot" or "Not" batches of New Belgium beer using chemical metrics and beer-tasters' sensory responses*
 
-**Please note that I am unable to share source code for this project because resulting data pipeline and prediction models are the property of New Belgium Brewery**
+**Please note that I am unable to share source data for this project because it is the propreitary property of New Belgium Brewing**
 
 ## Table Of Contents
 
